@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 
-# Source: https://github.com/stopwords-iso/stopwords-sk
+# Source: https://github.com/stopwords-iso/stopwords-sk and http://text.fiit.stuba.sk/zoznam_stop_slov.php#focus
 
 STOP_WORDS = set(
     """
